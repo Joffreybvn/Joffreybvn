@@ -4,7 +4,7 @@ I'm a junior fullstack developper, looking for a job.
 
 - 🔭 I’m currently working on a [low cost URL Shortener](https://oxi.cx).
 - 🌱 I’m currently learning AI things @ [becode.org](https://becode.org).
-- 🤔 I’m looking for help with cool and modern IT techs.
+- 🤔 I’m looking for help with modern IT techs.
 - 💬 Ask me about good places to travel in Colombia.
 - 📫 Reach me on: [joffreybvn@gmail.com](mailto:joffreybvn@gmail.com)
 
