@@ -1,11 +1,18 @@
-### Hi there 👋
+### How’s it going? 👋
+
+I'm a junior developper, looking for a job.
+
+- 🔭 I’m currently working on a [low cost URL Shortener](oxi.cx).
+- 🌱 I’m currently learning AI things @ [becode.org](https://becode.org).
+- 💬 Ask me about good places to travel in Colombia.
+- 📫 Reach me on: [joffreybvn@gmail.com](mailto:joffreybvn@gmail.com)
 
 <!--
 **Joffreybvn/Joffreybvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on a [low cost URL Shortener](oxi.cx).
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
