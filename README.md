@@ -2,7 +2,7 @@
 
 I'm a junior fullstack developper, looking for a job.
 
-- 🔭 I’m currently working on a [low cost URL Shortener](https://oxi.cx).
+- 🔭 I’m currently working on a [Similarity calculator for Pandas Dataframe](https://pypi.org/project/pandas-similarity/).
 - 🌱 I’m currently learning AI things @ [becode.org](https://becode.org).
 - 🤔 I’m looking for help with modern IT techs.
 - 💬 Ask me about good places to travel in Colombia.
