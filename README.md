@@ -2,14 +2,12 @@
 
 I'm a junior fullstack developper, looking for a job.
 
-- 🔭 I’m currently working on a [Similarity calculator for Pandas Dataframe](https://pypi.org/project/pandas-similarity/).
-- 🌱 I’m currently studying Machine Leaning @ [becode.org](https://becode.org).
-- 🤔 I’m looking for help with modern IT techs.
-- 💬 Ask me about good places to travel in Colombia.
-- 📫 Reach me on: [joffreybvn@gmail.com](mailto:joffreybvn@gmail.com)
+- 🔭 I’m working on the [lidario](https://lidario.readthedocs.io/) library.
+- 🌱 I’m studying Machine Leaning @ [becode.org](https://becode.org).
+- 🌎 I'm traveling around Colombia.
+- 📫 Reach me on [https://joffreybvn.be](https://joffreybvn.be/)
 
-### Languages and Tools:
-
+### Languages and Tools masterized:
 
 <img align="left" alt="Jetbrains suite" title="Jetbrains suite" width="26px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />
 <img align="left" alt="Rust" title="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
