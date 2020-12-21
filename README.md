@@ -7,7 +7,7 @@ I'm a junior back-end developper, studying machine learning @[BeCode.org](https:
 - 💬 [Ask me](https://twitter.com/Joffreybvn) about Python development in general.
 - 🌎 I'm traveling around Colombia.
 
-Discover my projects, hackathons, publications and more on [https://joffreybvn.be](https://joffreybvn.be/).
+Discover my projects, hackathons, publications and more on [joffreybvn.be](https://joffreybvn.be/).
 
 ## Skills
 
