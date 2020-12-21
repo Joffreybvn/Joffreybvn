@@ -1,22 +1,28 @@
-### Hello World, I'm Joffrey 👋
+# Hello World, I'm Joffrey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a junior fullstack developper, looking for a job.
+I'm a junior back-end developper, studying machine learning @[BeCode.org](https://becode.org).
 
 - 🔭 I’m working on the [lidario](https://lidario.readthedocs.io/) library.
-- 🌱 I’m studying Machine Leaning @ [becode.org](https://becode.org).
+- 🌱 I’m studying Machine Leaning @ [BeCode.org](https://becode.org).
 - 🌎 I'm traveling around Colombia.
-- 📫 Reach me on [https://joffreybvn.be](https://joffreybvn.be/)
 
-### Languages and Tools masterized:
+Discover my projects, hackathons, publication and more on [https://joffreybvn.be](https://joffreybvn.be/).
+
+### Machine learning & data science:
 
 <img align="left" alt="Jetbrains suite" title="Jetbrains suite" width="26px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />
+<img align="left" alt="Python 2 & 3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />
+<img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/800px-Tensorflow_logo.svg.png"/>
+<img align="left" alt="NumPy" width="26px" src="https://numpy.org/images/logos/numpy.svg" />
+
+
 <img align="left" alt="Rust" title="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
 <img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript ES6" title="JavaScript ES6" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Electron" title="Electron" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />
-<img align="left" alt="Python 2/3" title="Python 2/3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
 <img align="left" alt="Django" title="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="Java" title="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="PostGreSQL" title="PostGreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
