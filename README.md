@@ -13,7 +13,7 @@ Discover my projects, hackathons, publications and more on [joffreybvn.be](https
 
 I'm a code enthusiast, curious about cutting edge technologies, and scientific discoveries. As autodidact and quick learner, I love to take on new challenges, especially when they are difficult. I also like to discuss and share my knowledge in the fields I master.
 
-### Machine learning & data science:
+### ML & Big data tools:
 
 <img align="left" alt="Python 2 & 3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />
 <img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/800px-Tensorflow_logo.svg.png"/>
@@ -24,7 +24,7 @@ I'm a code enthusiast, curious about cutting edge technologies, and scientific d
 
 </br>
 
-### Back-end & sotfware development:
+### Sotfware development:
 
 <img align="left" alt="Jetbrains suite" title="Jetbrains suite" width="26px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />
 <img align="left" alt="Python 2 & 3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />
