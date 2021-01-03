@@ -11,7 +11,7 @@ Discover my projects, hackathons, publications and more on [joffreybvn.be](https
 
 ## Skills
 
-I'm a code enthusiast, curious about cutting edge technologies, and scientific discoveries. As autodidact and quick learner, I love to take on new challenges, especially when they are difficult. I also like to discuss and share my knowledge in the fields I master.
+I'm a code enthusiast, curious about cutting edge technologies, and scientific discoveries. As autodidact and quick learner, I love to take on new challenges. I also like to discuss and share my knowledge in the fields I master.
 
 ### ML & Big data tools:
 
