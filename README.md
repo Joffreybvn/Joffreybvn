@@ -1,8 +1,8 @@
 # Hello World, I'm Joffrey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a junior back-end developper, studying machine learning @[BeCode.org](https://becode.org).
+I'm a junior back-end developper, currently in internship @[Aerospacelab](https://www.aerospacelab.be/).
 
-- 🔭 I’m working on the [lidario](https://lidario.readthedocs.io/) library.
+- 🔭 I’m working on [Detectron2](https://github.com/facebookresearch/detectron2) and [TensorRT](https://developer.nvidia.com/tensorrt).
 - 🌱 I’m studying Deep Leaning @ [BeCode.org](https://becode.org).
 - 💬 [Ask me](https://twitter.com/Joffreybvn) about Python development in general.
 - 🌎 I'm traveling around Colombia.
