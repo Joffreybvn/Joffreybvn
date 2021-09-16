@@ -35,12 +35,12 @@ I love to take on new challenges and like to discuss and share my knowledge in t
 
 ### Sotfware development:
 
-<img align="left" alt="Python" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" />
-<img align="left" alt="Javascript" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" />
+<img align="left" alt="Python" title="Python" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" />
+<img align="left" alt="Javascript" title="JavaScript" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" />
 <img align="left" alt="Node.js" title="Node.js" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs-icon.svg" />
 <img align="left" alt="Java" title="Java" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" />
 <img align="left" alt="FastAPI" title="FastAPI" width="26px" height="26px" src="https://raw.githubusercontent.com/Joffreybvn/Joffreybvn/master/images/logos/fastapi.svg" />
-
+<img align="left" alt="Flask" title="Flask" width="26px" height="26px" src="https://raw.githubusercontent.com/Joffreybvn/Joffreybvn/master/images/logos/flask.svg" />
 <img align="left" alt="Terminal" title="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 </br></br>
