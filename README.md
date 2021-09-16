@@ -1,41 +1,46 @@
 # Hello World, I'm Joffrey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a machine learning engineer, currently working @[Radix](https://radix.ai/).
+I'm a Software/Data Engineer, currently working @[Radix](https://radix.ai/).
 
-- 🔭 I’m working on [Detectron2](https://github.com/facebookresearch/detectron2) and [TensorRT](https://developer.nvidia.com/tensorrt).
-- 🌱 I’m studying Deep Leaning @ [BeCode.org](https://becode.org).
-- 💬 [Ask me](https://twitter.com/Joffreybvn) about Python development in general.
+- 🔭 I’m working on [MLOps pipelines](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) with [Detectron2](https://github.com/facebookresearch/detectron2) and [TensorRT](https://developer.nvidia.com/tensorrt).
+- 🌱 I’m upskilling on Data Science @ [BeCode.org](https://becode.org).
 - 🌎 I'm traveling around Colombia.
+- 💬 [I like to discuss](https://www.linkedin.com/in/joffreybvn/) about Python, software and data !
 
-Discover my projects, hackathons, publications and more on [joffreybvn.be](https://joffreybvn.be/).
+⇨ [joffreybvn.be](https://joffreybvn.be/) • Discover my projects, hackathons, publications and more.
 
 ## Skills
 
-I'm a code enthusiast, curious about cutting edge technologies, and scientific discoveries. As autodidact and quick learner, I love to take on new challenges. I also like to discuss and share my knowledge in the fields I master.
+I'm a code enthusiast, curious about new technologies and scientific discoveries.
 
-### ML & Big data tools:
+As autodidact and quick learner, I'm able to design, enhance and deploy data-oriented Python softwares, API or pipelines. I'm comfortable with database, and also capable to train and deploy systems using AI.
 
-<img align="left" alt="Python 2 & 3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />
-<img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/800px-Tensorflow_logo.svg.png"/>
-<img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>
-<img align="left" alt="NumPy" height="26px" src="https://numpy.org/images/logos/numpy.svg" />
-<img align="left" alt="Pandas" height="26px" src="https://github.com/pandas-dev/pandas/blob/master/web/pandas/static/img/pandas_mark.svg" />
-<img align="left" alt="Jupyter Lab" height="26px" src="https://jupyter.org/assets/main-logo.svg" />
+I love to take on new challenges and like to discuss and share my knowledge in the fields I master.
+
+### Cloud, ML and Big Data:
+
+<img align="left" alt="AWS" title="AWS" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg" />
+<img align="left" alt="Azure" title="Azure" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/azure-icon.svg" />
+<img align="left" alt="Tensorflow" title="Tensorflow" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tensorflow.svg"/>
+<img align="left" alt="PyTorch" title="PyTorch" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pytorch.svg"/>
+<img align="left" alt="Sk-learn" title="Sk-learn" width="35px" height="26px" src="https://github.com/scikit-learn/scikit-learn/raw/main/doc/logos/scikit-learn-logo-thumb.png" />
+<img align="left" alt="MongoDB" title="MongoDB" width="26px" height="26px" src="https://raw.githubusercontent.com/mongodb-js/leaf/master/dist/mongodb-leaf.svg" />
+<img align="left" alt="ElascticSearch" title="ElascticSearch" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/elasticsearch.svg" />
+<img align="left" alt="Kafka" title="Kafka" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kafka-icon.svg" />
+<img align="left" alt="NumPy" title="NumPy" width="26px" height="26px" src="https://numpy.org/images/logos/numpy.svg" />
+<img align="left" alt="Pandas" title="Pandas" width="26px" height="26px" src="https://github.com/pandas-dev/pandas/blob/master/web/pandas/static/img/pandas_mark.svg" />
+<img align="left" alt="Jupyter Lab" title="Jupyter" width="26px" height="26px" src="https://jupyter.org/assets/main-logo.svg" />
 
 </br>
 
 ### Sotfware development:
 
-<img align="left" alt="Jetbrains suite" title="Jetbrains suite" width="26px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />
-<img align="left" alt="Python 2 & 3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />
-<img align="left" alt="Rust" title="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
-<img align="left" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Django" title="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="Electron" title="Electron" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />
-<img align="left" alt="Java" title="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="PostGreSQL" title="PostGreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="MongoDB" title="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="GitHub" title="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Python" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" />
+<img align="left" alt="Javascript" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" />
+<img align="left" alt="Node.js" title="Node.js" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs-icon.svg" />
+<img align="left" alt="Java" title="Java" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" />
+
+
 <img align="left" alt="Terminal" title="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 </br></br>
