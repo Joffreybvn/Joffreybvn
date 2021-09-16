@@ -15,7 +15,7 @@ I'm a code enthusiast, curious about new technologies and scientific discoveries
 
 As autodidact and quick learner, I'm able to design, enhance and deploy data-oriented Python softwares, API or pipelines. I'm comfortable with database, and also capable to train and deploy systems using AI.
 
-I love to take on new challenges and like to discuss and share my knowledge in the fields I master.
+I love to take on new challenges, discuss and share my knowledge in the fields I master.
 
 ### Cloud, ML and Big Data:
 
