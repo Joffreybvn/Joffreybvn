@@ -1,6 +1,6 @@
 # Hello World, I'm Joffrey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a Software/Data Engineer, currently working @[Radix](https://radix.ai/).
+I'm a Software/Data Engineer, currently working @[Mediascale](https://www.serviceplan.be/).
 
 - 🔭 I’m working on [MLOps pipelines](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) with [Detectron2](https://github.com/facebookresearch/detectron2) and [TensorRT](https://developer.nvidia.com/tensorrt).
 - 🌱 I’m upskilling on Data Science @ [BeCode.org](https://becode.org).
