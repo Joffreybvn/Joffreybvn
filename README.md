@@ -55,12 +55,10 @@ I love to take on new challenges, discuss and share my knowledge in the fields I
 
 </br></br>
 
-## Connect with me
+<p><pre align="center">
+<a href="https://joffreybvn.be">Website</a> / <a href="https://www.linkedin.com/in/joffreybvn/">Linkedin</a> / <a href="https://twitter.com/Joffreybvn">Twitter</a> / <a href="https://medium.com/@joffreybvn">Medium</a> / <a href="https://stackoverflow.com/users/7762386/joffrey-bienvenu">StackOverflow</a>
+</pre></p>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joffreybvn/)
-[<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Joffreybvn)
-[<img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@joffreybvn)
-[<img src="https://img.shields.io/badge/WEBSITE-%23292929.svg?&style=for-the-badge&logo=WEBSITE&logoColor=white" />](https://joffreybvn.be/) 
 
 <!--
 **Joffreybvn/Joffreybvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
