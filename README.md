@@ -5,7 +5,8 @@ Software/Data Engineer, working @[Mediascale](https://www.serviceplan.be/).
 <img src="github-metrics.svg" align="left" width="47.5%"></img></a>
 <img src="achievements.svg" align="left" width="47.5%"></img></a>
 
-- <img align="left" alt="Pikachu" title="Pikachu" width="18px" height="18px" src="./icons/pikachu.svg" /> &nbsp;Discovered coding years ago thanks to [Pokémon](https://pokeapi.co/)
+
+- <img align="left" alt="Pikachu" title="Pikachu" width="18px" height="18px" src="./icons/pikachu.svg" /> Discovered coding years ago thanks to [Pokémon](https://pokeapi.co/)
 - 🔭 Working on [MLOps pipelines](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) with [Detectron2](https://github.com/facebookresearch/detectron2) and [TensorRT](https://developer.nvidia.com/tensorrt)
 - 🌱 Upskilling on [Data Science](https://becode.org) and [Cloud platforms](https://learn.acloud.guru/profile/joffreybvn).
 - 💬 Sharing my knowledge giving Python classes and [blog posting](https://medium.com/@joffreybvn)
