@@ -5,8 +5,13 @@ Software/Data Engineer, working @[Mediascale](https://www.serviceplan.be/).
 <img src="github-metrics.svg" align="left" width="47.5%"></img></a>
 <img src="achievements.svg" align="left" width="47.5%"></img></a>
 
+## Get to know
 
-- <img align="left" alt="Pikachu" title="Pikachu" width="18px" height="18px" src="./icons/pikachu.svg" /> Discovered coding years ago thanks to [Pokémon](https://pokeapi.co/)
+Machine Learning enthusiast, curious about new technologies and scientific discoveries.
+
+Designing, improving and deploying data-oriented infrastructure, API and pipelines are my daily bread. I also play with database, data wharehouse, data lake, machine learning and computer vision systems.
+
+- <img alt="Pikachu" title="Pikachu" width="18px" height="18px" src="./icons/pikachu.svg" /> Discovered coding years ago thanks to [Pokémon](https://pokeapi.co/)
 - 🔭 Working on [MLOps pipelines](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) with [Detectron2](https://github.com/facebookresearch/detectron2) and [TensorRT](https://developer.nvidia.com/tensorrt)
 - 🌱 Upskilling on [Data Science](https://becode.org) and [Cloud platforms](https://learn.acloud.guru/profile/joffreybvn).
 - 💬 Sharing my knowledge giving Python classes and [blog posting](https://medium.com/@joffreybvn)
@@ -16,13 +21,7 @@ Software/Data Engineer, working @[Mediascale](https://www.serviceplan.be/).
 
 ⇨ [joffreybvn.be](https://joffreybvn.be/) • Discover my projects, hackathons, publications and more.
 
-## Skills
-
-I'm a code enthusiast, curious about new technologies and scientific discoveries.
-
-As autodidact and quick learner, I'm able to design, enhance and deploy data-oriented Python softwares, API or pipelines. I'm comfortable with database, and also capable to train and deploy systems using AI.
-
-I love to take on new challenges, discuss and share my knowledge in the fields I master.
+## Techs and tools:
 
 ### Cloud, ML and Big Data:
 
