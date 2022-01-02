@@ -1,11 +1,17 @@
 # Hello World, I'm Joffrey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a Software/Data Engineer, currently working @[Mediascale](https://www.serviceplan.be/).
+Software/Data Engineer, working @[Mediascale](https://www.serviceplan.be/).
 
-- 🔭 I’m working on [MLOps pipelines](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) with [Detectron2](https://github.com/facebookresearch/detectron2) and [TensorRT](https://developer.nvidia.com/tensorrt).
-- 🌱 I’m upskilling on Data Science @ [BeCode.org](https://becode.org).
-- 🌎 I'm traveling around Colombia.
-- 💬 [I like to discuss](https://www.linkedin.com/in/joffreybvn/) about Python, software and data !
+<img src="github-metrics.svg" align="left" width="47.5%"></img></a>
+<img src="achievements.svg" align="left" width="47.5%"></img></a>
+
+- <img align="left" alt="Pikachu" title="Pikachu" width="18px" height="18px" src="./icons/pikachu.svg" /> &nbsp;Discovered coding years ago thanks to [Pokémon](https://pokeapi.co/)
+- 🔭 Working on [MLOps pipelines](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) with [Detectron2](https://github.com/facebookresearch/detectron2) and [TensorRT](https://developer.nvidia.com/tensorrt)
+- 🌱 Upskilling on [Data Science](https://becode.org) and [Cloud platforms](https://learn.acloud.guru/profile/joffreybvn).
+- 💬 Sharing my knowledge giving Python classes and [blog posting](https://medium.com/@joffreybvn)
+- 🌎 Traveling around [Colombia](https://www.youtube.com/watch?v=6YVl-aixyfs)
+- 🎮 Ex-gamer, but still lurking on Twitch
+
 
 ⇨ [joffreybvn.be](https://joffreybvn.be/) • Discover my projects, hackathons, publications and more.
 
@@ -39,9 +45,9 @@ I love to take on new challenges, discuss and share my knowledge in the fields I
 <img align="left" alt="Javascript" title="JavaScript" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" />
 <img align="left" alt="Node.js" title="Node.js" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs-icon.svg" />
 <img align="left" alt="Java" title="Java" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" />
-<img align="left" alt="FastAPI" title="FastAPI" width="26px" height="26px" src="https://raw.githubusercontent.com/Joffreybvn/Joffreybvn/master/images/logos/fastapi.svg" />
-<img align="left" alt="Flask" title="Flask" width="26px" height="26px" src="https://raw.githubusercontent.com/Joffreybvn/Joffreybvn/master/images/logos/flask.svg" />
-<img align="left" alt="SocketIO" title="SocketIO" width="26px" height="26px" src="https://raw.githubusercontent.com/Joffreybvn/Joffreybvn/master/images/logos/socketio.svg" />
+<img align="left" alt="FastAPI" title="FastAPI" width="26px" height="26px" src="https://raw.githubusercontent.com/Joffreybvn/Joffreybvn/master/icons/fastapi.svg" />
+<img align="left" alt="Flask" title="Flask" width="26px" height="26px" src="https://raw.githubusercontent.com/Joffreybvn/Joffreybvn/master/icons/flask.svg" />
+<img align="left" alt="SocketIO" title="SocketIO" width="26px" height="26px" src="https://raw.githubusercontent.com/Joffreybvn/Joffreybvn/master/icons/socketio.svg" />
 <img align="left" alt="Docker" title="Docker" width="32px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg" />
 <img align="left" alt="Travis CI" title="Travis CI" width="26px" height="26px" src="https://cdn.svgporn.com/logos/travis-ci.svg" />
 <img align="left" alt="Terminal" title="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
