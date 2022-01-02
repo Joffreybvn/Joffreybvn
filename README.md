@@ -2,6 +2,7 @@
 
 I'm a Software/Data Engineer, currently working @[Mediascale](https://www.serviceplan.be/).
 
+- <img align="left" alt="Pikachu" title="Pikachu" width="18px" height="18px" src="https://raw.githubusercontent.com/Joffreybvn/Joffreybvn/master/images/icons/pikachu.svg" />
 - 🔭 I’m working on [MLOps pipelines](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) with [Detectron2](https://github.com/facebookresearch/detectron2) and [TensorRT](https://developer.nvidia.com/tensorrt).
 - 🌱 I’m upskilling on Data Science @ [BeCode.org](https://becode.org).
 - 🌎 I'm traveling around Colombia.
@@ -39,9 +40,9 @@ I love to take on new challenges, discuss and share my knowledge in the fields I
 <img align="left" alt="Javascript" title="JavaScript" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" />
 <img align="left" alt="Node.js" title="Node.js" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs-icon.svg" />
 <img align="left" alt="Java" title="Java" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" />
-<img align="left" alt="FastAPI" title="FastAPI" width="26px" height="26px" src="https://raw.githubusercontent.com/Joffreybvn/Joffreybvn/master/images/logos/fastapi.svg" />
-<img align="left" alt="Flask" title="Flask" width="26px" height="26px" src="https://raw.githubusercontent.com/Joffreybvn/Joffreybvn/master/images/logos/flask.svg" />
-<img align="left" alt="SocketIO" title="SocketIO" width="26px" height="26px" src="https://raw.githubusercontent.com/Joffreybvn/Joffreybvn/master/images/logos/socketio.svg" />
+<img align="left" alt="FastAPI" title="FastAPI" width="26px" height="26px" src="https://raw.githubusercontent.com/Joffreybvn/Joffreybvn/master/images/icons/fastapi.svg" />
+<img align="left" alt="Flask" title="Flask" width="26px" height="26px" src="https://raw.githubusercontent.com/Joffreybvn/Joffreybvn/master/images/icons/flask.svg" />
+<img align="left" alt="SocketIO" title="SocketIO" width="26px" height="26px" src="https://raw.githubusercontent.com/Joffreybvn/Joffreybvn/master/images/icons/socketio.svg" />
 <img align="left" alt="Docker" title="Docker" width="32px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg" />
 <img align="left" alt="Travis CI" title="Travis CI" width="26px" height="26px" src="https://cdn.svgporn.com/logos/travis-ci.svg" />
 <img align="left" alt="Terminal" title="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
