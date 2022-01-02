@@ -7,8 +7,6 @@ Software/Data Engineer, working @[Mediascale](https://www.serviceplan.be/).
 
 ## Get to know
 
-Machine Learning enthusiast, curious about new technologies and scientific discoveries.
-
 Designing, improving and deploying data-oriented infrastructure, API and pipelines are my daily bread. I also play with database, data wharehouse, data lake, machine learning and computer vision systems.
 
 - <img alt="Pikachu" title="Pikachu" width="18px" height="18px" src="./icons/pikachu.svg" /> Discovered coding years ago thanks to [Pokémon](https://pokeapi.co/)
