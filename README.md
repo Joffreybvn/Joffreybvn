@@ -31,6 +31,7 @@ Designing, improving and deploying data-oriented infrastructure, API and pipelin
 <img align="left" alt="MongoDB" title="MongoDB" width="26px" height="26px" src="https://raw.githubusercontent.com/mongodb-js/leaf/master/dist/mongodb-leaf.svg" />
 <img align="left" alt="ElascticSearch" title="ElascticSearch" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/elasticsearch.svg" />
 <img align="left" alt="Kafka" title="Kafka" width="26px" height="26px" src="./icons/kafka.svg" />
+<img align="left" alt="Airbyte" title="Airbyte" width="26px" height="26px" src="./icons/airbyte.svg" />
 <img align="left" alt="NumPy" title="NumPy" width="26px" height="26px" src="./icons/numpy.svg" />
 <img align="left" alt="Pandas" title="Pandas" width="26px" height="26px" src="./icons/pandas.svg" />
 <img align="left" alt="Jupyter Lab" title="Jupyter" width="26px" height="26px" src="./icons/jupyter.svg" />
