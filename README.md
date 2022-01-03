@@ -1,4 +1,4 @@
-# Hello World, I'm Joffrey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello World, I'm Joffrey <img src="./icons/wave.gif" width="30px">
 
 Software/Data Engineer, working @[Mediascale](https://www.serviceplan.be/).
 
