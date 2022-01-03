@@ -5,7 +5,11 @@ Software/Data Engineer, working @[Mediascale](https://www.serviceplan.be/).
 <img src="github-metrics.svg" align="left" width="47.5%"></img></a>
 <img src="achievements.svg" align="left" width="47.5%"></img></a>
 
-- <img align="left" alt="Pikachu" title="Pikachu" width="18px" height="18px" src="./icons/pikachu.svg" /> &nbsp;Discovered coding years ago thanks to [Pokémon](https://pokeapi.co/)
+## Get to know
+
+Designing, improving and deploying data-oriented infrastructure, API and pipelines are my daily bread. I also play with database, data wharehouse, data lake, machine learning and computer vision systems.
+
+- <img alt="Pikachu" title="Pikachu" width="18px" height="18px" src="./icons/pikachu.svg" /> Discovered coding years ago thanks to [Pokémon](https://pokeapi.co/)
 - 🔭 Working on [MLOps pipelines](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) with [Detectron2](https://github.com/facebookresearch/detectron2) and [TensorRT](https://developer.nvidia.com/tensorrt)
 - 🌱 Upskilling on [Data Science](https://becode.org) and [Cloud platforms](https://learn.acloud.guru/profile/joffreybvn).
 - 💬 Sharing my knowledge giving Python classes and [blog posting](https://medium.com/@joffreybvn)
@@ -15,18 +19,12 @@ Software/Data Engineer, working @[Mediascale](https://www.serviceplan.be/).
 
 ⇨ [joffreybvn.be](https://joffreybvn.be/) • Discover my projects, hackathons, publications and more.
 
-## Skills
-
-I'm a code enthusiast, curious about new technologies and scientific discoveries.
-
-As autodidact and quick learner, I'm able to design, enhance and deploy data-oriented Python softwares, API or pipelines. I'm comfortable with database, and also capable to train and deploy systems using AI.
-
-I love to take on new challenges, discuss and share my knowledge in the fields I master.
+## Techs and tools:
 
 ### Cloud, ML and Big Data:
 
-<img align="left" alt="AWS" title="AWS" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg" />
-<img align="left" alt="Azure" title="Azure" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/azure-icon.svg" />
+<img align="left" alt="AWS" title="AWS" width="26px" height="26px" src="./icons/aws.svg" />
+<img align="left" alt="Azure" title="Azure" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-azure.svg" />
 <img align="left" alt="Tensorflow" title="Tensorflow" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tensorflow.svg"/>
 <img align="left" alt="PyTorch" title="PyTorch" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pytorch.svg"/>
 <img align="left" alt="Sk-learn" title="Sk-learn" width="35px" height="26px" src="https://github.com/scikit-learn/scikit-learn/raw/main/doc/logos/scikit-learn-logo-thumb.png" />
@@ -54,12 +52,10 @@ I love to take on new challenges, discuss and share my knowledge in the fields I
 
 </br></br>
 
-## Connect with me
+<p><pre align="center">
+<a href="https://joffreybvn.be">Website</a> / <a href="https://www.linkedin.com/in/joffreybvn/">Linkedin</a> / <a href="https://twitter.com/Joffreybvn">Twitter</a> / <a href="https://medium.com/@joffreybvn">Medium</a> / <a href="https://stackoverflow.com/users/7762386/joffrey-bienvenu">StackOverflow</a>
+</pre></p>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joffreybvn/)
-[<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Joffreybvn)
-[<img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@joffreybvn)
-[<img src="https://img.shields.io/badge/WEBSITE-%23292929.svg?&style=for-the-badge&logo=WEBSITE&logoColor=white" />](https://joffreybvn.be/) 
 
 <!--
 **Joffreybvn/Joffreybvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
