@@ -23,8 +23,8 @@ Designing, improving and deploying data-oriented infrastructure, API and pipelin
 
 ### Cloud, ML and Big Data:
 
-<img align="left" alt="AWS" title="AWS" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg" />
-<img align="left" alt="Azure" title="Azure" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/azure-icon.svg" />
+<img align="left" alt="AWS" title="AWS" width="26px" height="26px" src="./icons/aws.svg" />
+<img align="left" alt="Azure" title="Azure" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-azure.svg" />
 <img align="left" alt="Tensorflow" title="Tensorflow" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tensorflow.svg"/>
 <img align="left" alt="PyTorch" title="PyTorch" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pytorch.svg"/>
 <img align="left" alt="Sk-learn" title="Sk-learn" width="35px" height="26px" src="https://github.com/scikit-learn/scikit-learn/raw/main/doc/logos/scikit-learn-logo-thumb.png" />
