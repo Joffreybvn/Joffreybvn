@@ -36,23 +36,13 @@ Designing, improving and deploying data-oriented infrastructure, API and pipelin
 <img align="left" alt="Pandas" title="Pandas" width="26px" height="26px" src="logos/pandas.svg" />
 <img align="left" alt="Jupyter Lab" title="Jupyter" width="26px" height="26px" src="logos/jupyter.svg" />
 
+![Kubernetes](logos/kubernetes.svg)
+
 </br>
 
 ### Sotfware development:
 
-<img align="left" alt="Python" title="Python" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" />
-
-![Poetrip](logos/light-mode/rust.svg#gh-light-mode-only)
-![Poetrip](logos/dark-mode/rust.svg#gh-dark-mode-only)
-
-<img align="left" alt="Node.js" title="Node.js" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs-icon.svg" />
-<img align="left" alt="Java" title="Java" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" />
-<img align="left" alt="FastAPI" title="FastAPI" width="26px" height="26px" src="https://raw.githubusercontent.com/Joffreybvn/Joffreybvn/master/icons/fastapi.svg" />
-<img align="left" alt="Flask" title="Flask" width="26px" height="26px" src="https://raw.githubusercontent.com/Joffreybvn/Joffreybvn/master/icons/flask.svg" />
-<img align="left" alt="SocketIO" title="SocketIO" width="26px" height="26px" src="https://raw.githubusercontent.com/Joffreybvn/Joffreybvn/master/icons/socketio.svg" />
-<img align="left" alt="Docker" title="Docker" width="32px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg" />
-<img align="left" alt="Travis CI" title="Travis CI" width="26px" height="26px" src="https://cdn.svgporn.com/logos/travis-ci.svg" />
-<img align="left" alt="Terminal" title="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+![Python](logos/python.svg) ![Poetrip](logos/light-mode/rust.svg#gh-light-mode-only) ![Poetrip](logos/dark-mode/rust.svg#gh-dark-mode-only) ![NodeJS](logos/nodejs.svg) ![Docker](logos/docker.svg) ![FastAPI](logos/fastapi.svg) ![Flask](logos/light-mode/flask.svg#gh-light-mode-only) ![Flask](logos/dark-mode/flask.svg#gh-dark-mode-only) ![SocketIO](logos/light-mode/socketio.svg#gh-light-mode-only) ![SocketIO](logos/dark-mode/socketio.svg#gh-dark-mode-only) ![TravisCI](logos/travis-ci.svg) ![Terminal](logos/light-mode/terminal.svg#gh-light-mode-only) ![Terminal](logos/dark-mode/terminal.svg#gh-light-mode-only)
 
 </br></br>
 
