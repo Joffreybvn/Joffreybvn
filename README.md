@@ -42,8 +42,8 @@ Designing, improving and deploying data-oriented infrastructure, API and pipelin
 
 <img align="left" alt="Python" title="Python" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" />
 
-![Poetrip](./logos/rust-light.svg#gh-light-mode-only)
-![Poetrip](./logos/rust.svg#gh-dark-mode-only)
+![Poetrip](logos/light-mode/rust.svg#gh-light-mode-only)
+![Poetrip](logos/dark-mode/rust.svg#gh-dark-mode-only)
 
 <img align="left" alt="Node.js" title="Node.js" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs-icon.svg" />
 <img align="left" alt="Java" title="Java" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" />
