@@ -23,28 +23,13 @@ Designing, improving and deploying data-oriented infrastructure, API and pipelin
 
 ### Cloud, ML and Big Data:
 
-<img align="left" alt="AWS" title="AWS" width="26px" height="26px" src="logos/aws.svg" />
-<img align="left" alt="Azure" title="Azure" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-azure.svg" />
-<img align="left" alt="Tensorflow" title="Tensorflow" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tensorflow.svg"/>
-<img align="left" alt="PyTorch" title="PyTorch" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pytorch.svg"/>
-<img align="left" alt="Sk-learn" title="Sk-learn" width="35px" height="26px" src="https://github.com/scikit-learn/scikit-learn/raw/main/doc/logos/scikit-learn-logo-thumb.png" />
-<img align="left" alt="MongoDB" title="MongoDB" width="26px" height="26px" src="https://raw.githubusercontent.com/mongodb-js/leaf/master/dist/mongodb-leaf.svg" />
-<img align="left" alt="ElascticSearch" title="ElascticSearch" width="26px" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/elasticsearch.svg" />
-<img align="left" alt="Kafka" title="Kafka" width="26px" height="26px" src="logos/kafka.svg" />
-<img align="left" alt="Airbyte" title="Airbyte" width="26px" height="26px" src="logos/airbyte.svg" />
-<img align="left" alt="NumPy" title="NumPy" width="26px" height="26px" src="logos/numpy.svg" />
-<img align="left" alt="Pandas" title="Pandas" width="26px" height="26px" src="logos/pandas.svg" />
-<img align="left" alt="Jupyter Lab" title="Jupyter" width="26px" height="26px" src="logos/jupyter.svg" />
-
-![Kubernetes](logos/kubernetes.svg)
-
-</br>
+![AWS](logos/light-mode/aws.svg#gh-light-mode-only) ![AWS](logos/dark-mode/aws.svg#gh-dark-mode-only) &nbsp; ![Azure](logos/azure.svg) &nbsp; ![OpenShift](logos/openshift.svg) &nbsp; ![Kubernetes](logos/kubernetes.svg) &nbsp; ![Kubernetes](logos/kubernetes.svg) &nbsp; ![Kafka](logos/light-mode/kafka.svg#gh-light-mode-only) ![Kafka](logos/dark-mode/kafka.svg#gh-dark-mode-only) &nbsp; ![MongoDB](logos/mongodb.svg) &nbsp; ![ElasticSearch](logos/elasticsearch.svg) &nbsp; ![Airbyte](logos/airbyte.svg) &nbsp; ![Airflow](logos/airflow.svg) &nbsp; ![Dagster](logos/dagster.svg) &nbsp; ![TensorFlow](logos/tensorflow.svg) &nbsp; ![PyTorch](logos/pytorch.svg) &nbsp; ![Scikit-learn](logos/sklearn.svg) &nbsp; ![NumPy](logos/numpy.svg) &nbsp; ![Pandas](logos/pandas.svg) &nbsp; ![Jupyter](logos/jupyter.svg) 
 
 ### Sotfware development:
 
 ![Python](logos/python.svg) &nbsp; ![Poetrip](logos/light-mode/rust.svg#gh-light-mode-only) ![Poetrip](logos/dark-mode/rust.svg#gh-dark-mode-only) &nbsp; ![NodeJS](logos/nodejs.svg) &nbsp; ![Docker](logos/docker.svg) &nbsp; ![FastAPI](logos/fastapi.svg) &nbsp; ![Flask](logos/light-mode/flask.svg#gh-light-mode-only) ![Flask](logos/dark-mode/flask.svg#gh-dark-mode-only) &nbsp; ![SocketIO](logos/light-mode/socketio.svg#gh-light-mode-only) ![SocketIO](logos/dark-mode/socketio.svg#gh-dark-mode-only) &nbsp; ![TravisCI](logos/travis-ci.svg)
 
-</br></br>
+</br>
 
 <p><pre align="center">
 <a href="https://joffreybvn.be">Website</a> / <a href="https://www.linkedin.com/in/joffreybvn/">Linkedin</a> / <a href="https://twitter.com/Joffreybvn">Twitter</a> / <a href="https://medium.com/@joffreybvn">Medium</a> / <a href="https://stackoverflow.com/users/7762386/joffrey-bienvenu">StackOverflow</a>
