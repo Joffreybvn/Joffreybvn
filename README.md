@@ -42,7 +42,7 @@ Designing, improving and deploying data-oriented infrastructure, API and pipelin
 
 ### Sotfware development:
 
-![Python](logos/python.svg) ![Poetrip](logos/light-mode/rust.svg#gh-light-mode-only) ![Poetrip](logos/dark-mode/rust.svg#gh-dark-mode-only) ![NodeJS](logos/nodejs.svg) ![Docker](logos/docker.svg) ![FastAPI](logos/fastapi.svg) ![Flask](logos/light-mode/flask.svg#gh-light-mode-only) ![Flask](logos/dark-mode/flask.svg#gh-dark-mode-only) ![SocketIO](logos/light-mode/socketio.svg#gh-light-mode-only) ![SocketIO](logos/dark-mode/socketio.svg#gh-dark-mode-only) ![TravisCI](logos/travis-ci.svg)
+![Python](logos/python.svg) &nbsp; ![Poetrip](logos/light-mode/rust.svg#gh-light-mode-only) ![Poetrip](logos/dark-mode/rust.svg#gh-dark-mode-only) &nbsp; ![NodeJS](logos/nodejs.svg) &nbsp; ![Docker](logos/docker.svg) &nbsp; ![FastAPI](logos/fastapi.svg) &nbsp; ![Flask](logos/light-mode/flask.svg#gh-light-mode-only) ![Flask](logos/dark-mode/flask.svg#gh-dark-mode-only) &nbsp; ![SocketIO](logos/light-mode/socketio.svg#gh-light-mode-only) ![SocketIO](logos/dark-mode/socketio.svg#gh-dark-mode-only) &nbsp; ![TravisCI](logos/travis-ci.svg)
 
 </br></br>
 
