@@ -7,7 +7,7 @@ Software/Data Engineer, working @[Infrabel](https://infrabel.be/).
 
 ## Get to know
 
-Designing, improving and deploying data-oriented infrastructure, API and pipelines are my daily bread. I also play with data wharehouses, data lakes, machine learning and computer vision systems.
+Designing, improving and deploying data-oriented infrastructure, API and pipelines are my daily bread. I also play with modern datalakehouse, machine learning and computer vision systems.
 
 - <img alt="Pikachu" title="Pikachu" width="18px" height="18px" src="./icons/pikachu.svg"></img> Discovered coding years ago thanks to [Pokémon](https://pokeapi.co/)
 - 🔭 Working on [MLOps pipelines](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) with [Detectron2](https://github.com/facebookresearch/detectron2) and [TensorRT](https://developer.nvidia.com/tensorrt)
