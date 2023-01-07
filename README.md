@@ -1,6 +1,6 @@
 # Hello World, I'm Joffrey 👋
 
-Software/Data Engineer, working @[Infrabel](https://infrabel.be/).
+Cloud/Data Engineer, working @[Infrabel](https://infrabel.be/).
 
 <img src="github-metrics.svg" align="left" width="47.5%"></img>
 <img src="achievements.svg" align="left" width="47.5%"></img>
